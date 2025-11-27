@@ -1,0 +1,28 @@
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>GlowSkin - About</title>
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<header>
+<h1 class="logo">GlowSkin</h1>
+<nav class="navbar">
+<a href="index.html">Home</a>
+<a href="about.html">About</a>
+<a href="products.html">Products</a>
+<a href="payment.html">Payment</a>
+</nav>
+</header>
+
+
+<section class="page-section">
+<h2>Who We Are</h2>
+<p>GlowSkin is a skincare brand dedicated to helping customers achieve clear, glowing, and healthy skin using safe and natural ingredients. Our products are clinically tested and designed for all skin types.</p>
+</section>
+
+
+<footer>© 2025 GlowSkin. All rights reserved.</footer>
+</body>
+</html>
